@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KomronSharpist/KomronSharpist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋 I'm Komron
 
 # I'm a Junior Front end developer and .NET developer
 [![Komron Developer's github stats ](https://github-readme-stats.vercel.app/api?username=KomronSharpist&show_icons=true&theme=dark)](https://github.com/KomronSharpist/github-readme-stats)
