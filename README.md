@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡️ Fun fact: ...
 -->
 
-# I'm a Junior Front end developer and .NET developer
+# I'm a Fullstack developer with skills .NET, VueJs
 [![Komron Developer's github stats ](https://github-readme-stats.vercel.app/api?username=KomronSharpist&show_icons=true&theme=dark)](https://github.com/KomronSharpist/github-readme-stats)
